@@ -71,5 +71,8 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# zip files
+*.zip
+
 # Windows shortcuts
 *.lnk
