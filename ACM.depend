@@ -1,8 +1,6 @@
 # depslib dependency file v1.0
-1435006107 source:c:\users\deador\documents\acm\main.cpp
+1435674766 source:c:\users\deador\documents\acm\main.cpp
 	<iostream>
 	<stdio.h>
 	<string>
-	<regex>
-	<vector>
 
